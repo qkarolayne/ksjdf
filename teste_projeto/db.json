@@ -1,0 +1,20 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "img": "antesDeVoce.jpeg",
+            "titulo": "Como eu era antes de você",  
+            "descricao": "Mistura comédia e drama em um romance que vai fazer você tirar o lencinho da bolsa."
+        },
+        {"id": 2,
+            "img":"biblioteca_da_meia_noite.jpeg",
+            "titulo": "A biblioteca da meia noite",  
+            "descricao": "Romance incrível que fala dos infinitos rumos que a vida pode tomar e da busca incessante pelo rumo certo."
+        },
+        {"id": 3,
+            "imgS":"ate_o_verao_terminar.jpeg",
+            "titulo": "Até o verão terminar",  
+            "descricao": "Traumas fizeram Beyah uma pessoa cética e desconfiada. Mas ela está prestes a mudar a sua sorte graças a si mesma."
+        }
+    ]
+}
